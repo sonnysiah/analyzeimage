@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Analyzer and Similar Image Finder",
+  "description": "An application that uses AI to describe an uploaded image and then generates a new, similar image based on that description.",
+  "requestFramePermissions": []
+}
